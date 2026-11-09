@@ -29,7 +29,13 @@ Claude is there to be asked. Never paste a password or student data.
 Common fixes: `claude` not found, open a new terminal and run `claude --version`; an `irm` error means you are in CMD, so open PowerShell; Google sign-in expires about every 7 days in Testing mode, which is normal.
 
 ## You are the human in the loop
-That is a strength, not a chore. Claude previews every change and waits for your "yes", so **you stay in charge** and the robot can do what it is good at. Give it room: let it plan, suggest, draft, check your work and build the helper, then you read it and decide. Do not turn on "auto-approve", and read each command before you approve it.
+You read, then say yes  
+The robot drafts, you decide  
+Your name on each change
+
+Free the thinking part  
+So a human reads it first  
+Nothing leaves your hands
 
 ## Rules
 - No student names, grades or messages in the desktop chat. They stay on your computer and in your school's systems.
