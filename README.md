@@ -33,10 +33,6 @@ You read, then say yes
 The robot drafts, you decide  
 Your name on each change
 
-Free the thinking part  
-So a human reads it first  
-Nothing leaves your hands
-
 ## Rules
 - No student names, grades or messages in the desktop chat. They stay on your computer and in your school's systems.
 - Run Claude Code on your own computer, not in a cloud or web session.
